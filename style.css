@@ -11,11 +11,9 @@ h2 {
     font-size: 40px;
 }
 
-.orange-color {
-    color: orange;
-}
 
-.flexiable-container {
+
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 }
@@ -29,18 +27,11 @@ h2 {
     width: 80%;
 }
 
-
 .link-button {
     text-decoration: none;
-    background-color: #f44336;
+    background-image: linear-gradient(orange, tomato);
     color: white;
-    padding: 5px 20px;
+    padding: 10px 40px;
     font-weight: 700;
-    border-radius: 30px;
-
-
-}
-
-.top-banner {
-    background-image: url(images/shapes/7.png);
+    border-radius: 10px;
 }
